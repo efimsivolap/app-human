@@ -108,7 +108,7 @@ class _UserInfo extends StatelessWidget {
       width: double.infinity,
       child: Column(
         children: [
-          SizedBox(height: 30),
+          SizedBox(height: 20),
           _AvatarWidget(),
           SizedBox(height: 30),
           _UserNameWidget(),
